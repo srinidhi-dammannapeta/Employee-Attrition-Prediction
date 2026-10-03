@@ -157,7 +157,7 @@ Employee-Attrition-Prediction/
 ├── requirements.txt
 └── README.md
 
-## Technologies Used
+## **Technologies Used**
 
 The following technologies and tools were used to develop the Employee Attrition Prediction System:
 
@@ -171,9 +171,9 @@ The following technologies and tools were used to develop the Employee Attrition
 * **Streamlit** – Development of the interactive web application
 * **Jupyter Notebook** – Exploratory Data Analysis and model experimentation
 
-## How to Run
+## **How to Run**
 
-### 1. Clone the Repository
+### **1. Clone the Repository**
 
 ```bash
 git clone https://github.com/srinidhi-dammannapeta/Employee-Attrition-Prediction.git
