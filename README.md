@@ -156,3 +156,74 @@ Employee-Attrition-Prediction/
 ├── generate_dataset.py
 ├── requirements.txt
 └── README.md
+
+## Technologies Used
+
+The following technologies and tools were used to develop the Employee Attrition Prediction System:
+
+* **Python** – Main programming language
+* **Pandas** – Data loading and data manipulation
+* **NumPy** – Numerical computations
+* **Scikit-learn** – Data preprocessing, model training, evaluation, and hyperparameter tuning
+* **Matplotlib** – Data visualization
+* **Seaborn** – Statistical visualization and correlation heatmaps
+* **Joblib** – Saving and loading the trained machine learning model
+* **Streamlit** – Development of the interactive web application
+* **Jupyter Notebook** – Exploratory Data Analysis and model experimentation
+
+## How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/srinidhi-dammannapeta/Employee-Attrition-Prediction.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd Employee-Attrition-Prediction
+```
+
+### 3. Create a Virtual Environment
+
+```bash
+python -m venv .venv
+```
+
+### 4. Activate the Virtual Environment
+
+For Windows:
+
+```bash
+.venv\Scripts\activate
+```
+
+### 5. Install Required Packages
+
+```bash
+pip install -r requirements.txt
+```
+
+### 6. Run the Streamlit Application
+
+```bash
+streamlit run app.py
+```
+
+The application will open in the browser and allow users to enter employee information and receive an attrition prediction with probability.
+
+## Future Scope
+
+The Employee Attrition Prediction System can be further enhanced with the following features:
+
+* Employee retention recommendation system
+* SHAP-based explainable AI for understanding individual predictions
+* Additional employee and organizational features
+* Advanced HR analytics dashboards
+* Model monitoring and periodic retraining
+* Integration with existing HR management systems
+* Cloud-based deployment
+* Real-time employee analytics
+* Advanced machine learning algorithms
+* Automated reports for HR teams
