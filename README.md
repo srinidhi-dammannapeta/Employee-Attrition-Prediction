@@ -171,9 +171,9 @@ The following technologies and tools were used to develop the Employee Attrition
 * **Streamlit** – Development of the interactive web application
 * **Jupyter Notebook** – Exploratory Data Analysis and model experimentation
 
-## **How to Run**
+## How to Run
 
-### **1. Clone the Repository**
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/srinidhi-dammannapeta/Employee-Attrition-Prediction.git
@@ -227,3 +227,6 @@ The Employee Attrition Prediction System can be further enhanced with the follow
 * Real-time employee analytics
 * Advanced machine learning algorithms
 * Automated reports for HR teams
+
+## Live Demo
+https://employee-attrition-prediction-8siyabovedwnxdarpkykdp.streamlit.app/
